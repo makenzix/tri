@@ -1,6 +1,6 @@
 {
 	"name":"Turksc",
-	"version":"0.2",
+	"version":"PRO-V2",
 	"author":"TurkscByjocker",
 	"classifiers":
 		{
